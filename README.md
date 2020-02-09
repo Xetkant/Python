@@ -87,6 +87,13 @@ Please make sure to update tests as appropirate.
 ```
 
 ```diff
+-Red
++Green
+!Orange
+#Grey
+```
+
+```diff
 -text 
 +word
 !character
