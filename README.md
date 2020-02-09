@@ -65,5 +65,5 @@ Please make sure to update tests as appropirate.
 !character
 #string
 ```
-[MIT](https://choosealicense.com/licenses/mit/)
+[Kaung Sett Khant](https://www.facebook.com/)
 [MIT](https://choosealicense.com/licenses/mit/)
