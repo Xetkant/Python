@@ -109,12 +109,4 @@ else:
  	pass
 
 
-# x = input(str("are you SIYB student: "))
-# y = input(str("are you Python student: "))
-# z = input(str("are you boy or girl"))
-
-# 	if x == "siyb"
-# 		print("yes im siyb student")
-# 		if y == "Python":
-# 			print("Yes, Im Python student")
 
